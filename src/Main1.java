@@ -8,6 +8,6 @@ public class Main1 {
         System.out.println("la resta es:"+ calculadora.restar());
         System.out.println("la multiplicacion es:"+ calculadora.multiplicar());
         System.out.println("la division es:"+ calculadora.dividir());
-        // lo hago de esta forma sin necesidad de poner mas variables para que sea mas corta y menos largo el codigo.
+
     }
 }

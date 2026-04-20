@@ -1,9 +1,7 @@
 public class Calculadora1 {
-    //atributos de mi calculadora
     private int valor1;
     private int valor2;
 
-    // metodos que usare
     public Calculadora1() {
 
     }
